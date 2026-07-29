@@ -1,16 +1,10 @@
 # Тестовая документация по тестированию SauceDemo
 
-![Status](https://img.shields.io/badge/Status-Завершён-brightgreen)
-![Test Plan](https://img.shields.io/badge/Test_Plan-1.0-blue)
+![Test Plan](https://img.shields.io/badge/Test_Plan-1-blue)
 ![Test Cases](https://img.shields.io/badge/Тест--кейсов-135-blue)
 ![Checklists](https://img.shields.io/badge/Чек--листов-143-green)
 ![Bug Reports](https://img.shields.io/badge/Баг--репортов-12-red)
 
-![Manual QA](https://img.shields.io/badge/Manual_QA-✓-informational)
-![DevTools](https://img.shields.io/badge/DevTools-✓-orange)
-![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-✅-purple)
-![Яндекс.Трекер](https://img.shields.io/badge/Яндекс.Трекер-✅-yellow)
-![Lightshot](https://img.shields.io/badge/Lightshot-✅-lightgrey)
 
 > **Учебное портфолио QA Engineer** — полная тестовая документация по ручному тестированию веб-приложения [SauceDemo](https://www.saucedemo.com): тест-план, чек-листы, тест-кейсы и баг-репорты.
 
